@@ -1,0 +1,100 @@
+Reviewer(s)' Comments to Author:
+
+Reviewer: 1
+
+Comments to the Author
+Review of “Prisoner’s dilemma can be a moral luck case: When Betrayal Functions as a Form of Luck”
+
+(These comments are also attached as a .doc)
+The author aims at expanding the conceptual framework of moral luck through consideration of special cases involving other agents. Drawing on the Prisoner’s Dilemma, the author presents a case where a person’s attempt to cooperate can have bad results when thwarted by another’s choice to defect. The example aims at showing that an agent’s moral standing can nonetheless be affected by others’ choices that are outside of her control. Thus there is a type of moral luck that’s been underappreciated in the literature. The conceptual framework of moral luck is expanded to include not only cases of blind accidents, constitutive, or circumstantial luck, but also cases of social cooperation.
+The paper is well-written and on an important topic that could certainly add to the discussion of moral luck. Even if not published in this journal, I look forward to reading it elsewhere. This is an underdeveloped topic in the literature and deserves scrutiny. How other agents’ voluntary choices affect our own decisions and their results is important and under-researched. Although the paper has many merits – I particularly enjoyed the likening of other agents’ decisions to natural events and the emphasis on epistemic framing – there are some significant issues with the example and argument, noted below.
+As a result, I would recommend a revise and resubmit with major revisions to resolve some important issues with the argument.
+
+Major Issues
+1. There seems to be confusion about types of assessment. The author initially mentions that they will be discussing moral standing, which they first contrast to blame and then shift in the next paragraph to moral appraisal understood (I think) in terms of praise and blame. So, is there blame or not? Later, the author seems to be discussing not moral appraisal/standing but “outcome-focused evaluation, prevalent in professional contexts, media narratives, and public opinion” (p. 5). There may be some underlying waffling between views, expressed by the reference to “moral reputation” rather than “moral worth” towards the end of the paper (p. 13).
+There are some issues here. First, the outcome-focused evaluations in the contexts listed do not get at moral appraisal, but professional or public appraisal. It may be true that Adele’s career and reputation is at stake without touching her moral standing.
+Second, the author claims they are not smuggling in consequentialism (p. 9), but the judgment of the case seems to only work on a consequentialist model. Unless you think outcomes alone ground moral judgment, the conclusion that Adele’s moral standing is affected by Bruno’s choice doesn’t stand; her moral standing could be untouched despite accepting resultant moral luck. If outcomes can be traced back to an earlier time where an agent met conditions for responsibility (such as control, knowledge, or exercise of a virtue/vice), then they can be attributed to the agent. This is where the author’s example is not analogous to classic cases of resultant moral luck (such as the drunk driver, assassin/bird examples). When we trace the outcome back, it doesn’t lead to a time when Adele did or could have freely chosen it (in fact, the author suggests that Adele reasonably predicted Bruno would cooperate – they agreed upon the plan, she could not anticipate he’d defect (pp. 5-6), and his defection was entirely unpredictable (p. 8)). By contrast, the hired assassin who succeeds in murdering someone despite the luck of avoiding a bird is responsible for the outcome since it can be traced back to his earlier decision to kill, the drunk driver to the decision to get drunk knowing he would later be driving. In other words, a person can accept resultant moral luck, i.e., can accept that outcomes do sometimes affect moral standing, without judging that the Adele case is one where outcomes matter. Yet the author insists that rejection of the claim that Adele’s moral standing is affected is only possible for staunch defenders of the control principle.
+Third, the conclusion that Adele “saved zero lives” is problematic (p. 8). If we are considering this as a joint case, her choice resulted in 5 lives saved (vs. only 2 if she also chose to defect). Why does the paper not compare the results of an alternate choice she could have made with the choice she did make? This again seems to be grounded in alternate forms of non-moral appraisal rather than moral appraisal or a consequentialist view of moral responsibility. I understand that since we are focused on moral luck we are looking at the choice she did make and alternate outcomes (depending on what Bruno does). But moral appraisal (even when considering moral luck) depends on more than just outcomes (the tracing literature sheds light here, cited below under #3).
+2. Much of the literature is uncited. Some ideas are referenced without citation and in ways that are very terse and would only be intelligible to someone with deep familiarity of the literature (e.g. second para. on p. 6) or reference thinkers without citation (e.g. “more recent discussions have begun…” (p. 3), “Advocates of moral luck…” p. 7). The author must cite the sources they’re referencing and back up claims with references. A full lit review is not necessary, but citing the thinkers the author has in mind and is referencing is necessary.
+3. Much of the moral luck literature is not engaged with. I think in particular, [lack of] control theorists should be referenced given that the paper assumes a control account of luck (especially Hartman’s, but some of these other ones might be helpful to engage with how different thinkers understand control).
+1.      Hartman, R. Defense of Moral Luck: Why Luck Often Affects Praiseworthiness and Blameworthiness; Routledge, New York, USA, 2017.
+2.      Riggs, W. The Lack of Control Account of Luck. In The Routledge Handbook of the Philosophy and Psychology of Luck; Church, I, Hartman, R.J., Eds. Routledge, New York, USA, 2019; pp. 125-135.
+3.      Anderson, M.B. Moral Luck as Moral Lack of Control. The Southern Journal of Philosophy 2019, 57, 1, 5-29.
+4.      Broncano- Berrocal, F. Luck as Risk and the Lack of Control Account of Luck. Metaphilosophy 2015, 46, 1– 25.
+
+Other sources from the literature that should be included. There are alternate views of luck that challenge the control account of luck (i.e. that luck is primarily defined in terms of lack of control). They are not central to your argument but could be cited as a footnote showing that you recognize there are other views of luck. The Pritchard article also pushes against your claim that the agent’s subjective position matters when judging cases of luck.
+
+5.      Pritchard, D. The modal account of luck. Metaphilosophy 2014, 45, 594–619.
+6.      Rescher, N. Luck: The Brilliant Randomness of Everyday Life; Farrar, Straus, and Giroux, New York, USA, 1995. (Probability Account)
+7.      Peels, R. A Modal Solution to the Problem of Luck. American Philosophical Quarterly 2015, 52, 1, 73-87. (Mixed Account)
+Some literature on tracing may be relevant, too, especially the Hartman piece.
+1.      Fitzpatrick, W. J. (2008). “Moral Responsibility and Normative Ignorance”. Ethics 118: 589-619.
+2.      Hartman, R. J. (2020). “Indirectly Free Actions, Libertarianism, and Resultant Moral Luck”. Erkenntnis 85: 1417-1436.
+
+4. p. 11 There is a potentially grave concern about the implications of the view that “moral consequences are distributed, reshaping the moral standing of the victim” (p. 11). Won’t this – at least in some cases – amount to victim blaming? Is a woman’s moral standing affected if she happens down the wrong path on her walk home and is assaulted? Clarity on how the thesis excludes such cases would be helpful.
+
+Minor Issues
+p. 2 explain what “effective control” is. People define this in different ways (e.g. Riggs (2009), Peels (2019))
+p.3 “social ecology of moral appraisal” Why is this italicized?
+p. 8 “see Chapter 3” fix reference
+p. 8 “the decision’s unpredictability renders it functionally equivalent to an external natural contingency” Does this involve a shift from the control account of luck to the probability account?
+p. 9 “responsibility remainder” move up the definition of this to the first mention, which I think is on p. 7
+p. 10 “The second objections says”; “says” should be “is”
+p. 12 Formal Analogues in Decision Theory. Broncano-Berrocal’s work on “tracking control” seems relevant here. Yes, there is no direct, effective control. But control can nevertheless be exercised in relation to an event that is predictable, etc. More engagement with the literature in moral luck, especially control accounts, would be good here and throughout. Or I’d suggest cutting this point or moving it to a footnote.
+p. 12 A period is missing at the end of paragraph 3.
+p. 13 “I do not claim that all interpersonal interactions automatically become cases of moral luck.” Expand. Which interactions do not and why?
+
+Reviewer: 2
+
+Comments to the Author
+In this paper the author (henceforth AU) defends, what they take to be, a new form of moral luck that arises from the way that the actions of others (a matter of luck) may impact one’s one moral status such as in prisoner’s dilemma type cases. Unfortunately, I cannot recommend the manuscript for publication or revision. One big issue is that the paper is insufficiently situated in the literature on moral luck. There is very little actual engagement with any of the contemporary developments on the topic since Nagel. For example, Story (2019, “Interpersonal Moral Luck and Normative Entanglement,” Ergo), argues for the same basic point as AU. So AU needs to engage with such work, explaining what novel contribution is being made. Additionally, I think that overall the paper does not demonstrate sufficient clarity, precision, and tightness of structure to make for a candidate for publication.
+
+More specific comments are below.
+
+P2, first sentence of the paper: “The concept of moral luck arises when I morally evaluate an agent, whether to praise or to blame, despite the fact that the action or its outcome is, at least in part, determined by factors beyond the agent’s control (Nagel, 1979; Williams, 1976; cf. Nelkin, 2025).”
+        Precision of language. If this were true, then whether moral luck is real or illusory would simply depend on the moral judgments of AU. But what is at issue are not simply whether AU’s moral judgements are luck sensitive, but whether appropriate or proper or true moral evaluation is luck sensitive.
+
+P2: “Others contend that most instances of moral luck are best explained as
+misperceptions arising from epistemic limitations or asymmetries in information and therefore
+believe that the Control Principle retains much broader applicability (Richards, 1986; Wolf, 2001).”
+        Precision. It should be “…most instances of apparent/alleged moral luck are best explained…”
+
+P2: “This paper does not seek to convert the staunchest defenders of the Control Principle, for whom the very category of moral luck is incoherent. Instead, it addresses those who already take the problem of moral luck seriously, accepting the legitimacy of its canonical forms (e.g., resultant or circumstantial luck).”
+        This implies that those who engage deeply with the problem of moral luck, and seek to articulate a theory of responsibility on which some or all forms of moral luck are illusory do not “take the problem of moral luck seriously.” This applies, ironically, to Zimmerman’s (2002) classic “Taking Luck Seriously,” which argues for the rejection of all forms of moral luck. So I think there is a better way for the author to formulate their claim.
+
+P3: “I do not aim to extend deontic blame for outcomes beyond an agent’s control.”
+        What is deontic blame? Does AU mean moral blame?
+
+P3: “However, more recent discussions have begun to consider the possibility that similar dynamics may arise in the context of human cooperation.”
+        References? Story (“Interpersonal Moral Luck and Normative Entanglement,” 2019 Ergo) is one.
+
+P3: “While traditional paradigms of moral luck tend to emphasize random externalities…”
+        On traditional category of moral luck is constitutive moral luck. Does the AU think that one’s constitution is a random externality?
+
+P6: “In one case, luck significantly alters the agent’s moral development or the outcome of her action; in another, luck is irrelevant or morally inert.”
+        I don’t think it’s accurate to say that in moral luck pair cases, one case involves luck and the other doesn’t. Rather, there is some difference across the cases that seems morally relevant, but that difference is due to luck. So luck is present in both cases.
+
+P6: “In this context, the relevant locus of luck, or rather, the factor beyond Adele’s control,
+is Bruno’s decision to defect, a choice that Adele could not influence or anticipate.”
+        Isn’t Bruno’s decision a matter of the lucky (if he cooperates) or unlucky (if he defects) circumstances in which Adele makes her decision (if he makes his decision at or before the time she makes her decision)? If so, then is this just a kind of circumstantial moral luck? Or, if Bruno makes his decision to defect after Adele makes her decision to cooperate, then it seems to be a form of resultant moral luck.
+
+P7: “The same intuition can be extended to the case of Adele and Bruno.”
+        If AU thinks that this is a case of resultant moral luck, AU needs to more fully make the case that it is sufficiently distinctive from more typical cases of resultant moral luck to warrant attention.
+
+P8: “(For further decision theory analyses, see Chapter 3, Formal Analogies in Decision Theory.)”
+        What is AU referring to here? Another chapter of a dissertation?
+
+P8: “…the decision’s unpredictability renders it functionally equivalent to an external natural contingency.”
+        Couldn’t it be both a matter of luck (outside Adele’s control) and predictable? And isn’t the fundamental issue the former not the latter?
+
+P9: “The problem of moral luck is by definition the pressure point where a fundamentally deontological commitment, the Control Principle, collides with our entrenched, often outcome-sensitive moral intuitions. The debate would simply not exist without the intuition that actual outcomes bear moral weight.”
+        I don’t think so. Consider circumstantial moral luck. The debate over circumstantial moral luck would survive the denial that outcomes bear moral weight. This debate just proceeds from the observation that what we decide to do is partly a function of the circumstances that we find ourselves in (which is a matter of luck).
+
+P9: “My defense of partner-luck must confront a series of increasingly sophisticated objections.”
+        Wasn’t the author just considering objections? What makes this class of objections different from those just considered? The structure needs to be more carefully thought out.
+
+P10: “This objection, however, rests on a CP-centric view of the problem.”
+        The AU goes into response to this objection before adequately explaining the objection.
+
+P10: “For the moral luck theorist, it is also a manifestation of the victim’s profound vulnerability to agential contingency.”
+        Is the author committing themselves to the claim that victims of injustice are blameworthy? This seems to follow if the vulnerability mentioned above is the same sense of vulnerability at stake in the moral luck debate (i.e. whether one’s moral responsibility is subject to luck).

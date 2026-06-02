@@ -1,0 +1,428 @@
+Prisoner’s dilemma can be a moral luck case
+When Betrayal Functions as a Form of Luck
+ABSTRACT:
+I seek to expand the conceptual framework of moral luck by introducing a specific category of
+partner-luck, a situation in which two autonomous agents, for example, the participants in a Prisoner’
+s
+Dilemma (PD), are mutually dependent while lacking any genuine control over one another’
+s
+decisions. Although moral luck has traditionally been associated with the uncontrollability of natural,
+accidental, or historical factors, a structurally analogous form of luck may also arise when the
+outcome hinges on another agent’s free yet unpredictable choice. This form of partner-luck
+illuminates how PD-type interactions can acquire a distinct moral dimension, wherein the divergent
+outcomes of “cooperation” and “defection” yield not only rational consequences but also morally
+charged evaluations.
+To illustrate my point, I present a rescue scenario in which cooperative behavior (C) results in moral
+success only if it is reciprocated by the other party; otherwise, the agent attempting to cooperate may
+be subjected to severe professional and moral criticism. I then juxtapose the moral architecture
+revealed by this example with the foundational tenets of the Control Principle and classical theories
+of moral luck. While proponents of the Control Principle maintain that Adele (the cooperating agent)
+cannot be held morally responsible for Bruno’s (the defector’s) independent decision, I contend that
+the structure of moral appraisal in such cases is isomorphic to canonical forms of moral luck, I argue
+that the very concepts of interpersonal injustice and betrayal, from the victim’s perspective, can be
+reinterpreted as species of a broader genus: partner-luck.
+My thesis is that the notion of moral luck should not be confined to blind accidents but can be
+extended to dilemmas of social cooperation, particularly within game-theoretic structures like the
+Prisoner’s Dilemma. In such contexts, the unpredictable autonomy of others may function as a
+morally significant form of luck, shaping both outcomes and the moral standing of the agents
+involved.
+Keywords: Moral Luck, Prisoner’s Dilemma, Moral Responsibility, Agential Contingency,
+Relational Luck
+Introduction: Moral Luck and the Control Principle
+1Page 4 of 16
+The concept of moral luck arises when I morally evaluate an agent, whether to praise or to blame,
+despite the fact that the action or its outcome is, at least in part, determined by factors beyond the
+agent’s control (Nagel, 1979; Williams, 1976; cf. Nelkin, 2025). While many maintain that it would
+be morally unjust to hold someone accountable for circumstances over which they exert no influence,
+both everyday moral practice and the criminal justice system frequently appear to take outcomes,
+often contingent upon chance or external conditions, into account. This phenomenon is what the
+literature refers to as moral luck. The core question in the ensuing debate is whether, and to what
+extent, it is appropriate, or even necessary, for moral appraisal to consider those aspects of action or
+consequence that elude the agent’s effective control (Nelkin, 2025).
+At the heart of the controversy lies the so-called Control Principle (CP), which stipulates that
+individuals can be held morally responsible only for what lies within the scope of their control (Kant,
+1784/1998; see also Nagel, 1979). The principle is often expressed in the form of a corollary: “ Two
+people ought not to be morally assessed differently if the only other differences between them are due
+to factors beyond their control” (Nelkin, 2025). The tension becomes apparent here: strict adherence
+to the Control Principle seems to clash with ordinary moral intuitions, which often factor in actual
+outcomes when evaluating agents (Williams, 1993). This is not merely a theoretical tension; it bears
+significant practical implications as well, ranging from the moral and legal judgment of criminal acts
+to mundane distinctions between the “unlucky” and the “fortunate.” It raises the troubling question
+of whether we ought to discern a moral difference between two agents who are equivalent in intention
+and capacity, yet whose actions lead to markedly different outcomes (Zimmerman, 2002).
+The philosophical literature on the subject spans a broad spectrum. Some argue that moral luck
+reflects a deeply embedded feature of our moral practices, thus implying that the Control Principle
+holds only in a limited sense. Others contend that most instances of moral luck are best explained as
+misperceptions arising from epistemic limitations or asymmetries in information and therefore
+believe that the Control Principle retains much broader applicability (Richards, 1986; Wolf, 2001).
+Whether moral luck constitutes an irreducible paradox, an expandable category of moral theory, or
+merely a misjudgment in need of correction remains an open question (Nelkin, 2025).
+At the outset, it is crucial to clarify my argument’s scope and aim. This paper does not seek to convert
+the staunchest defenders of the Control Principle, for whom the very category of moral luck is
+incoherent. Instead, it addresses those who already take the problem of moral luck seriously,
+accepting the legitimacy of its canonical forms (e.g., resultant or circumstantial luck). My central
+question is an internal one: if one accepts these traditional categories, what principled reason could
+2Page 5 of 16
+there be for rejecting a structurally analogous form of luck that arises from the contingent decisions
+of our partners in cooperative enterprises? I do not aim to extend deontic blame for outcomes beyond
+an agent’s control. Rather, I offer a diagnosis of the social ecology of moral appraisal, a domain in
+which outcome-sensitivity persists as a stubborn feature of our practices, even when formal
+responsibility can be rightly attributed elsewhere. The problem of partner-luck, as I frame it, is not
+about who is ultimately to blame, but about whose moral standing is at stake.
+The problem of moral luck, then, lies in the fact that an agent’s moral appraisal can be substantially
+influenced by external variables over which they exercise no control, yet they nevertheless receive
+differential praise or blame due to these uncontrollable circumstances. The classical illustrations of
+this involve “blind luck”, as when a pedestrian suddenly crosses a driver’s path, or factors rooted in
+genetic, circumstantial, or historical determinants. However, more recent discussions have begun to
+consider the possibility that similar dynamics may arise in the context of human cooperation. Here,
+the misjudgment or error of another agent, whose decisions fall outside the subject’s control, might
+exert such an overwhelming influence that it engenders a situation tantamount to moral luck. While
+traditional paradigms of moral luck tend to emphasize random externalities, one might plausibly
+argue that another person’s morally defective decision may function analogously to an accidental or
+environmental factor.
+1. When the Prisoner’s Dilemma Becomes a Case of Moral Luck
+The aim of the following thought experiment is twofold: first, to illustrate the essential structure of
+the classical Prisoner’s Dilemma (PD) through a realistic emergency scenario; and second, to
+elucidate how the problem of moral luck may arise when agents are unable to exert control over one
+another’s actions. In the scenario, two paramedics working in an intensive care unit, Adele and Bruno,
+are dispatched to the site of a mass-casualty accident. Their individual strategic decisions, whether to
+cooperate or to defect, will influence not only the number of lives ultimately saved, but also the
+subsequent moral evaluation of their conduct. The possible outcomes in the scenario (i.e., the number
+of patients each manages to rescue) are isomorphic with the standard logic of the PD: mutual
+cooperation (C, C) yields better results for both than mutual defection (D, D), yet from the standpoint
+of individual advantage, defection may emerge as a dominant strategy.
+3Page 6 of 16
+A: Defects (works alone) A: Cooperates (works
+together)
+B: Defects (works alone) A = 1, B = 1 (Total = 2) A = 0, B = 5 (Total = 5)
+B: Cooperates (works
+together)
+A = 5, B = 0 (Total = 5) A = 3, B = 3 (Total = 6)
+Let us assume that the two paramedics, Adele (A) and Bruno (B), are professionally equivalent in
+rank, training, and experience. There exists no superior-subordinate hierarchy between them, nor are
+there any initial external conditions that would favor one over the other. Upon arriving at the scene,
+they encounter a single medical container fully equipped for trauma care. For the sake of operational
+efficiency, they may choose either to divide the equipment and work separately or to coordinate their
+actions.
+Both agents are incentivized to maximize the number of patients they individually stabilize and
+evacuate, as these figures will later influence assessments by hospital administrators, media
+narratives, and public opinion. Each faces the same strategic options:
+Cooperate (C): Both commit time and effort to the coordination of tasks, operate under a
+shared protocol, divide the equipment equitably, and synchronize their interventions.
+Defect (D): Both abandon the joint plan, opting instead to pursue independent, competing
+methods of rescue without genuine collaboration.
+The situation is structurally symmetric: either agent may choose to cooperate or defect. The numerical
+outcomes correspond to the number of patients each can stabilize and evacuate. The resulting payoff
+matrix, consistent with the PD framework, unfolds as follows:
+1.1 Cooperative Strategy (C, C): Collective Optimization and Its Limits
+If both Adele and Bruno choose to cooperate, that is, to work together according to a coordinated
+plan, the rescue process becomes more time-consuming due to coordination costs (e.g., negotiating
+equipment use, delays in communication). Nevertheless, the synergistic effects of teamwork enable
+them to handle more complex cases, resulting in three successful rescues per person, six in total. This
+outcome constitutes the optimal collective result. Both agents receive professional recognition, as the
+transparency and discipline of their joint action maximize systemic efficiency. However, as the PD
+logic dictates, this strategy remains unstable: if one agent anticipates that the other will cooperate, it
+may become rational to unilaterally deviate to secure a higher individual payoff.
+4Page 7 of 16
+1.2 Defective Strategy (D, D): Individual Rationality, Collective Loss
+If both agents defect, opting for uncoordinated, independent action, the duplication of effort, logistical
+interference (e.g., both responding to the same cluster of victims), and absence of communication
+severely diminish operational efficacy. In this case, each rescues only one patient, for a total of two.
+While defection may appear rational from the standpoint of individual decision-making (since 1 > 0
+if the other defects), the collective outcome is dramatically inferior to that of mutual cooperation (2
+< 6). This scenario epitomizes the classical paradox of the Prisoner’s Dilemma: the aggregation of
+individually rational decisions results in a collectively suboptimal outcome, one that is worse for both
+parties than if they had cooperated.
+1.3 CD/DC: One Cooperates, the Other Defects
+Let us imagine an emergency scenario in which two paramedics, Adele and Bruno, begin their
+operation under identical conditions, equipped with equal resources and professional competencies.
+Both are aware that mutual cooperation would reliably result in each saving three individuals.
+Accordingly, Adele adheres strictly to the jointly agreed-upon plan: she organizes the equipment,
+coordinates the intervention protocols, and acts cooperatively, trusting in Bruno’s assistance. Bruno,
+however, perceiving Adele’s methodical and time-consuming organizational efforts, abruptly decides
+to abandon the cooperative strategy. He deviates from the plan, seizes the equipment Adele had
+prepared, and swiftly proceeds to rescue the most easily accessible casualties. In the end, Bruno
+succeeds in saving five individuals, while Adele, hindered by a lack of tools and logistical disarray,
+rescues no one.
+At first glance, Bruno’s conduct is morally objectionable: he breaks an agreement, opportunistically
+exploits his partner’s good faith, and undermines the foundation of future cooperation. Adele’
+s
+choice, conversely, reflects commendable integrity. Yet, the brutal reality of outcome-focused
+evaluation, prevalent in professional contexts, media narratives, and public opinion, creates a
+paradoxical situation. From an outcome-focused perspective, which privileges the sheer number of
+lives saved, Bruno’s action could be framed as pragmatically superior, while Adele’s well-intentioned
+but failed effort might attract moral criticism for its ineffectiveness. Her moral tragedy lies precisely
+in being ensnared by a system of appraisal where her partner’s moral failing manifests as her own
+professional failure. This example powerfully illustrates how adherence to cooperation can be
+retrospectively judged as a form of ethical negligence, not because it is inherently wrong, but because
+its success is vulnerable to the defection of others.
+5Page 8 of 16
+It is important to stress that the example does not aim to depict Adele as morally superior, nor Bruno
+as malevolent or selfish. Quite the opposite: the cooperative-defective binary functions merely as a
+model for examining how moral luck can arise between two individuals of comparable competence
+whose initial cooperative intentions may nevertheless be derailed by strategic interdependence. It is
+entirely conceivable that agents with identical motivations, expertise, and dedication may nonetheless
+receive different moral evaluations solely because one of them happens to face a partner whose
+decision, non-cooperative yet ultimately effective, falls outside the other's sphere of control. The
+critical issue, then, is not who the “better” or "worse” person is but how outcomes that are random or
+only partially controllable can come to dominate retrospective moral judgment.
+So-called moral luck pair cases (Levy, 2016, p. 127) have frequently served as key instruments in
+analysing the contours of this problem. In one case, luck significantly alters the agent’s moral
+development or the outcome of her action; in another, luck is irrelevant or morally inert. What unifies
+these traditional cases is that, aside from the luck variable, all other morally salient features are held
+constant.
+Let us now consider the situation in which Adele’s original intention was to engage in mutual
+cooperation, which she reasonably assumed would yield a stable and predictable rescue outcome for
+both parties. In this context, the relevant locus of luck, or rather, the factor beyond Adele’s control,
+is Bruno’s decision to defect, a choice that Adele could not influence or anticipate. Following the
+logic of standard moral luck pair cases, I may now imagine two possible outcomes:
+Bruno cooperates: In this case, Adele’s efforts prove successful, and both paramedics rescue
+three individuals. Thus, despite acting in exactly the same way (by cooperating), Adele
+receives significant praise and recognition owing to the favourable result.
+Bruno defects: In the actual scenario, however, Bruno exploits the joint plan for his own
+benefit, appropriating resources while Adele invests her energy in futile attempts at
+coordination. Ultimately, she saves no one and becomes morally suspect: “ Why was she not
+capable of acting more independently and effectively?”
+In both cases, Adele’s intention, effort, and ability remain identical. The only morally relevant
+difference lies in the seemingly contingent behaviour of Bruno. Yet this single divergence exerts a
+drastic influence on both the outcome and Adele’s moral standing, thereby exemplifying the essence
+of moral luck, namely, that an agent’s moral status can be shaped decisively by externalities or by the
+autonomous decisions of others, which lie beyond the agent’s control.
+6Page 9 of 16
+I am aware that for many, the immediate intuition in cases like Adele’s will be to insist: ‘She is not
+morally unlucky, merely the victim of an injustice.’ I urge the reader to recognize this powerful
+intuition for what it is: a first-order manifestation of the very Control Principle whose absolute
+authority is the subject of the moral luck debate itself. My argument is addressed precisely to those
+who are willing to suspend that initial judgment and examine whether category capture a crucial dimension of Adele’s predicament that the language of ‘injustice’ contend that the evaluative difference between Adele₁, whose partner cooperates, and Adele₂, whose
+partner defects, not a stubbornly of luck might not
+alone misses. I
+the one, rooted in the divergent outcomes that moral appraisal causal one, but an evaluative
+constitutes an authentic ‘responsibility remainder’, tracks.
+In line with defenders of moral luck, one may argue here that it is not Adele’s intention, but the actual
+number of lives saved that determines the moral appraisal of her conduct. The force of the argument
+mirrors that found in classic resultant luck examples, such as the pair case involving two hired
+assassins. Suppose both possess identical intentions and prepare equally for their acts, but one fails
+to kill because a bird randomly flies into the bullet’s trajectory, while the other successfully executes
+the murder. Advocates of moral luck insist that the moral condemnation applicable to the latter cannot
+be identically applied to the former, as the death of an actual person constitutes a morally weightier
+fact than an unrealized intention.
+The same intuition can be extended to the case of Adele and Bruno. A moral luck theorist would
+maintain that one cannot reasonably offer identical moral praise to Adele1 (the one whose cooperation
+is matched by Bruno’s) and Adele2 (whose partner defects), given that in the former scenario she
+succeeds in saving three lives, whereas in the latter she saves none. The mere presence or absence of
+cooperation from another agent, a variable beyond Adele’s control, suffices to radically alter the
+moral evaluation of otherwise indistinguishable actions.
+2. The Theoretical Core: A Full Defense of Partner-Luck
+The strongest objection to the very idea of partner-luck is that it rests on a basic category mistake: it
+treats a moral agent’s deliberate choice (Bruno’s) as on a par with a blind, morally neutral natural
+event. While this criticism looks compelling, it misfires on several levels because it ignores the
+epistemic character of my argument and the internal logic of the moral-luck debate. My case for
+partner-luck is a multi-tiered defense that builds directly on the manuscript’s framework of “partner-
+luck” within PD-type interactions.
+2.1. First Level: The Phenomenology of Radical Contingency
+7Page 10 of 16
+My starting point is not a naïve ontological identity claim, but a precise description of Adele’s
+phenomenological and epistemic position. From Adele’s perspective, the eventual upshot of Bruno’s
+decision is radically contingent. Although Bruno is a moral agent with reasons, those reasons sit for
+Adele inside an opaque “black box,” the other mind. At the moment of choice, despite shared history
+and rational trust, the partner’s sovereign freedom introduces into the situation a variable that is
+unknowable and beyond Adele’s control. In this respect, the complex neurochemical processes in
+Bruno’s brain that eventuate in his decision constitute, for Adele, a no-less-unpredictable segment of
+the world’s causal fabric than a sudden gust of wind or a quantum fluctuation.
+Let us be precise about the nature of the analogy, as the strongest objections are likely to arise here.
+The argument is not a crude ontological reduction that equates the moral content of a rational decision
+with the moral neutrality of a natural event. Rather, it is a claim about epistemic opacity and causal
+impact. (For further decision theory analyses, see Chapter 3, Formal Analogies in Decision Theory.)
+The crucial point is that from Adele's deliberative position, her partner's impenetrable "other mind"
+functions as a “black box.” The internal logic of his reasons, values, and intentions is inaccessible
+and ultimately uncontrollable. The thesis thus bypasses the metaphysics of Bruno’s freedom to focus
+on the phenomenology of Adele’s vulnerability. This establishes why it is justified to describe the
+situation in terms of luck: for Adele, her partner's decision impinges upon her course of action with
+the force of an external contingency.
+However, the purpose of this epistemically focused analysis is not to absolve Adele from all
+consequences of the outcome. On the contrary: its goal is to precisely describe the mechanism through
+which moral luck operates. The fact that Bruno's decision is an epistemic black box for Adele still
+carries a new, irrevocable moral-ontological consequence for the result of her actions. It creates the
+fact that ”she saved zero lives,” and for the proponent of moral luck, moral appraisal is precisely
+sensitive to such actual outcomes. Adele’s moral standing becomes a hostage to a causal process that
+is, for her, functionally indistinguishable from chance, yet whose result nevertheless irrevocably
+adheres to her moral record.
+Whatever Bruno’s choice metaphysical source (libertarian freedom or complex determinism), the
+decision’s unpredictability renders it functionally equivalent to an external natural contingency. What
+we face is not natural chance, but a form of agential contingency. This maps onto the manuscript’s
+claim that another player’s free yet unpredictable choice can serve as a locus of luck in PD-like
+settings.
+2.2. Second Level: The Primacy of Epistemic Framing
+8Page 11 of 16
+A critic might reply that this is merely Adele’s subjective standpoint, whereas the objective moral
+fact is that failure was caused by a responsible agent. This objection misses the point: the thesis of
+partner-luck is explicitly epistemic. I do not assert that Bruno is ontologically a rock slide. I contend
+that, from Adele’s limited and intractable epistemic position, Bruno’s decision impinges as an
+external, unpredictable, and uncontrollable event, and moral appraisal (both that of observers and
+Adele’s self-assessment) tracks that outcome and the uncontrollable factor that produced it. This is
+precisely where the problem of moral luck takes root: in situations where an agent’s epistemic horizon
+comes apart from her causal reach. The manuscript’s framework emphasizes that, in such PD-type
+interdependence, another agent’s volition can operate as the relevant “beyond-control” variable that
+moral evaluation nevertheless responds to.
+2.3. Third Level: Safeguarding the Internal Logic of the Debate
+A more sophisticated objection charges that by centering outcomes and Adele’s perspective, I am
+smuggling consequentialism into a dispute where intentions should matter. But this misconstrues the
+debate’s dialectical structure. The problem of moral luck is by definition the pressure point where a
+fundamentally deontological commitment, the Control Principle, collides with our entrenched, often
+outcome-sensitive moral intuitions. The debate would simply not exist without the intuition that
+actual outcomes bear moral weight. To fault a partner-luck argument for exhibiting outcome-
+sensitivity is therefore to attack the very precondition of the problem’s existence. My aim is not to
+convert devotees of the Control Principle, who reject the category of moral luck from the outset, but
+to show those who take the moral-luck problem seriously that partner-luck is a hitherto neglected yet
+paradigmatic case of it. If one accepts that a randomly flying bird can generate resultant luck in a
+classic pair case, then logical consistency requires accepting that a partner’s epistemically opaque,
+sovereign decision can do the same. The question here is not the legitimacy of consequentialism, but
+the range of possible sources of luck within a framework that already treats outcomes as morally
+relevant. This aligns with the manuscript’s expansion of moral luck from natural accidents to inter-
+agent dependence in PD-type structures
+2.4 The Core Defense: From Responsibility to a Revisionist Moral Ontology
+My defense of partner-luck must confront a series of increasingly sophisticated objections. By
+addressing them sequentially, I can reveal the full philosophical implications of my thesis, which
+ultimately proposes a revisionist account of certain core moral concepts.
+According to the first objection, the “Responsibility Exhaustion” thesis claims that my case fails the
+basic test for moral luck. The concept of luck, it is argued, is needed only to explain a responsibility
+remainder (Williams, 1976), a morally significant outcome not fully accounted for by the actions of
+9Page 12 of 16
+responsible agents. In Adele’s case, there is no such remainder. The situation is perfectly explained
+by Bruno’s betrayal and Adele’s status as a victim. Responsibility is cleanly allocated, the moral
+description is complete, and the category of luck is explanatorily redundant.
+This objection, however, rests on a CP-centric view of the problem. For those who take moral luck
+seriously, the “responsibility remainder” is not causal but evaluative. It is the stark difference in the
+moral standing of Adele₁ (who saves three lives) and Adele₂ (who saves none), despite their identical
+intentions and actions. The clean allocation of blame to Bruno does not erase the negative outcome
+that adheres to Adele₂’s record. It is this evaluative deficit that the concept of luck is required to
+explain. Note that, for any proponents of the control principle, there is no residual responsibility in
+any moral luck example. The analogy with circumstantial luck makes this clear. The Nazi
+environment was created by responsible agents, yet we still consider it a source of moral luck for the
+young German raised within it. If the possibility of blaming the source were enough to neutralize
+luck, then circumstantial luck itself would be an incoherent category.
+The second objection says the “Sufficient Moral Description” Thesis. A more refined critique,
+operating from within the moral luck framework, concedes the first point but draws a new distinction.
+It argues that luck is a concept reserved for morally mute causal inputs, like a bird flying into a bullet's
+path. Bruno’s betrayal, by contrast, is a morally rich event, for which our vocabulary, injustice,
+betrayal, wrongdoing, is perfectly sufficient. Since there is no descriptive deficit, there is no need to
+invoke the category of luck.
+This powerful objection leads to the radical core of my thesis. I argue that concepts like “injustice”
+and “betrayal” do not compete with “partner-luck”; rather, from the victim's standpoint, they are
+species of it. The philosophical contribution of my analysis is to reveal the hidden, luck-based nature
+of these interpersonal moral phenomena. By becoming the victim of an injustice, an agent's moral
+narrative is irrevocably altered by a factor, another's sovereign will, over which they have no control.
+This reveals a profound truth: one's fundamental commitment to either the CP or to moral luck
+determines how one understands the very meaning of concepts like injustice. For the CP-adherent,
+injustice is a self-contained dyadic relation of perpetrator and victim. For the moral luck theorist, it
+is also a manifestation of the victim’s profound vulnerability to agential contingency.
+The third objection is the “Paradox of Moral Stance.” This leads to the final and deepest challenge.
+If injustice is a form of luck, the critic argues, my entire normative framework collapses. To see
+Bruno's act as an injustice requires us to adopt a participant stance (in Strawson’s sense), holding him
+responsible with reactive attitudes like resentment. To see it as a source of Adele's luck requires us
+10Page 13 of 16
+to adopt an objective stance, viewing his decision as an external, unpredictable event in the world's
+causal fabric. One cannot simultaneously hold both stances toward the same agent regarding the same
+act. The thesis, therefore, demands a performatively contradictory and psychologically impossible
+moral judgment.
+My rejoinder is follows: this reveals that the very philosophical commitments. From the perspective the moral
+judgment of the situation is contingent upon
+one’s ledger prior is clear: Adele remains an victim, fully shielded from not simply luck, a betrayer. the picture transforms. as while Bruno is perpetrator most and contingency The innocent However, if moral fallout one from meaning of ‘betrayal’ shifts: of the Control Principle, blame for the lives accepts the reality of moral luck, and thus Bruno’s betrayal is not his alone; the well, implicating her it is no longer a unilateral consequences are saved,
+partner-
+negative
+distributed,
+appraisal for the disastrous outcome adheres to Adele as in the failure.
+Consequently, the very is assessed, but a relational event act for which only the
+whose devastating moral reshaping the moral standing of the victim as much as the villain. Partner-luck exposes this unsettling
+truth: our basic moral concepts are not fixed but are defined by the very paradoxes of agency
+we seek to understand.
+I reject the premise that this paradox is a flaw in my view; instead, I contend that it is the theory’s
+central insight. My argument is not a mere application of existing categories but a philosophical
+diagnosis of the often-paradoxical nature of our moral lives. The case of partner-luck reveals that our
+moral practices are fundamentally fractured. We are constantly required to navigate between the
+participant stance, which is necessary for a world of responsibility and relationships, and the objective
+stance, which is forced upon us by the raw fact of agential contingency and our vulnerability to it.
+This logic is not confined to acute, PD-type episodes. It extends to life-narrative
+the altar scales, as Her moral of partner-luck illustrated standing by becomes the often-ignored counterpart parasitic on his luck. Had abandonment decision in he is Williams’s famous Gauguin failed, her past retrospectively imposed a second, perhaps case: his wife.
+choices might be a shared folly; because he succeeded, her seen as framed as
+a tragic sacrifice on
+of great art. However, Gauguin’s even more profound,
+form of moral luck upon her. their children, circumstances of such desperation instance, stealing food to survive, By abandoning her and that she morally he may have cast her into
+that she was forced into compromising actions, for
+would have otherwise never faced. This demonstrates the
+dual structure of agentially-sourced luck: a partner’s autonomous project, lying beyond one’s control,
+can radically reshape one’s moral narrative not only by reinterpreting the past but also by constraining
+the moral possibilities of the future.
+11Page 14 of 16
+3. Formal Analogues in Decision Theory
+Within the framework of causal decision theory, CDT (Bacon, 2022), Bruno’s decision represents,
+for Adele, an external factor no less uncontrollable than, for instance, a pigeon flying into the path of
+a hired assassin’s bullet: the outcome hinges on it, yet the agent has no power over it. Likewise, in
+evidential decision theory, EDT (Ahmed, 2014; Gallow, 2024), although agents might form
+expectations about others ’behavior based on evidential correlations or statistical probabilities, this
+does not amount to genuine control over the other’s conduct; it remains a loose co-variation, not a
+mechanism of influence. Thus, both CDT and EDT affirm that while agents lack direct control over
+one another, the other’s behavior may nonetheless bear immense moral weight in determining
+outcomes. That is the very structure of moral luck.
+Conclusion
+If we extend the concept of moral luck to encompass all events beyond the agent’s control that
+nevertheless cast them in a morally unfavorable light, then another person’s decision may indeed
+function as a locus of luck, just as a storm or unfortunate coincidence might. If there is any force in
+the moral intuition that we ought to judge agents by the actual outcomes of their actions, and common in practice, Adele is in fact blamed for failing to save if, as is
+lives, then this case offers a compelling
+illustration of how moral luck can emerge even within interpersonal, game-theoretical dynamics.
+Ultimately, I have argued for more than a simple expansion Prisoner's Dilemma can a case of moral luck (if goods, but moral value), choice can be as decisive become I have revealed for one's moral that the standing any of a category. By showing the payoff is not punishment introduced by a partner's natural accident. This suggests how a
+or material
+contingency autonomous
+as a revisionist
+conclusion: the problem of moral luck is not a peripheral puzzle but a central feature of social
+shows fundamental concepts existence. The 'partner-luck' framework that moral betrayal are themselves deeply entangled with the logic of luck. They reveal our moral judgments: we must simultaneously hold others responsible as agents normative world (the participant stance) while recognizing their choices as moral fate (the like injustice a paradox at the within uncontrollable, and
+heart of
+a shared
+external
+contingencies that shape our own objective stance). Far from being a flaw,
+acknowledging this paradox is the core philosophical insight
+This implies that a vast range of cooperative human activities, indeed, any form of dyadic or
+multilateral decision-making, can give rise to moral luck, because another person’s decision may
+12Page 15 of 16
+ultimately shape our moral reputation. In this light, almost any joint venture, be it a workplace project,
+a marriage, or a political alliance, carries the latent possibility of moral luck, insofar as the partner’
+s
+unpredictable behavior may rebound upon us. To be clear, I do not claim that all interpersonal
+interactions automatically become cases of moral luck. The article thus proposes this broadened,
+partner-luck perspective without claiming to resolve the foundational dispute between the Control
+Principle and the concept of moral luck.
+Doing so enables moral luck to capture the profound vulnerability of moral agents in contexts of
+social cooperation. While a full survey is beyond my scope, this concept resonates with, yet remains
+distinct from, discussions on ‘relational ’or
+‘second-personal ’luck. Furthermore, the descriptive
+premise of our argument, that social judgment is heavily outcome-focused, finds strong empirical
+support in the psychological literature on the ‘outcome bias’. By identifying partner-luck, I reveal
+of rational appraisal of that moral judgment, far from being a sovereign act control.
+the residue of a strategic dilemma over which the intent, may itself often be
+agent being judged had only partial This reframing raises a deeper philosophical question, namely, does such an extension of the term
+dilute the original concept of moral luck, as it was envisioned in reflections on accident, determinism,
+or genetic endowment? I have argued that the concept is legitimately expandable in this way. Doing
+so enables moral luck to capture the vulnerability of moral agents in contexts of social cooperation
+and collective action. Thus, the paradox of moral luck, as formulated by Nagel and Williams, is not
+resolved but is shown to be an ordinary, structural, and perhaps inevitable feature of our moral
+experience in any interdependent social setting. It reveals that moral judgment, far from being a
+sovereign act of rational appraisal, may itself be the residue of a strategic dilemma.
+References:
+Ahmed, A. (2014). Evidence, Decision and Causality, Cambridge: Cambridge University Press.
+Bacon, A., (2022). “Actual Value in Decision Theory”, Analysis, 82(4): 617–629.
+Gallow, J. Dimitri, (2024). “Decision and Foreknowledge”, Noûs, 58: 77–105.
+Kant, I. (1784/1998). Groundwork of the Metaphysics of Morals (M. Gregor, Ed. and Transl.).
+Cambridge University Press.
+Levy, N. (2016). Dissolving the puzzle of resultant moral luck. Review of Philosophy and Psychology,
+7(1), 127–139. https://doi.org/10.1007/s13164-015-0249-0
+Nagel, T. (1979). Moral luck. In Mortal Questions (pp. 24–38). Cambridge University Press.
+Nelkin, D. K. (2025). Moral Luck. In E. N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy
+(Winter 2025 Edition).
+Richards, N. (1986). Luck and Desert. Mind, 95, 198–209.
+13Page 16 of 16
+Williams, B. (1976). Moral Luck. Proceedings of the Aristotelian Society, Supplementary Vol. L,
+115–135.
+Williams, B. (1993). Postscript. In D. Statman (Ed.), Moral Luck (pp. 251–258). SUNY Press.
+Wolf, S. (2001). The moral of moral luck. Philosophic Exchange, 31(1)
+Zimmerman, M. (2002). Taking Luck Seriously. The Journal of Philosophy, 99, 553–576.
